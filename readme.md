@@ -1,9 +1,10 @@
 <h1 align='center'>
- <b> </b>
+ <b>Estadística con Python</b>
 </h1>
+
 Comprender y aplicar en la práctica conceptos de estadísticas como las distribuciones  binomial, de poisson y normal a un conjunto de datos,  técnicas de muestreo, calcular el tamaño de la muestra.
 
-## **Estadística: Frecuencias y medidas**
+## **Probabilidad y muestreo**
 
 
 ## Table of Contents
